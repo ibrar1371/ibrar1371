@@ -1,99 +1,52 @@
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            color: #333;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #3b5998;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-        .section {
-            margin: 20px 0;
-        }
-        .icons img {
-            width: 40px;
-            height: 40px;
-            margin: 5px;
-            transition: transform 0.2s ease;
-        }
-        .icons img:hover {
-            transform: scale(1.2);
-        }
-        .stats img {
-            width: 100%;
-            max-width: 500px;
-            margin: 20px 0;
-        }
-        .contact-info a {
-            color: #3b5998;
-            text-decoration: none;
-            font-weight: bold;
-        }
-    </style>
-    
-    <div class="container">
-        <h1>👋 Hi, I'm Muhammad Ibrar Bhatti</h1>
-        <h2>Website Developer | Skilled in HTML, React.js, PHP, JavaScript, Python | Cloud Computing Student</h2>
-        <p>📍 Karachi Division, Sindh, Pakistan</p>
-        <hr>
+# 👋 Hi, I'm Muhammad Ibrar Bhatti
 
-        <div class="section">
-            <h3>👨‍💻 About Me</h3>
-            <p>I'm a dedicated website developer with <strong>1.5 years of experience</strong> in creating custom, dynamic web solutions. My expertise spans front-end and back-end development, with a solid foundation in:</p>
-            <ul>
-                <li><strong>Languages & Frameworks:</strong> Custom HTML, React.js, PHP, JavaScript, Python</li>
-                <li><strong>Platforms & Tools:</strong> WordPress, Shopify, Figma</li>
-            </ul>
-            <p>Currently, I'm a <strong>Cloud Computing student</strong> at Sir Syed University of Engineering and Technology. I’m passionate about building responsive, impactful digital experiences tailored to client needs.</p>
-        </div>
+**Website Developer | Skilled in HTML, React.js, PHP, JavaScript, Python | Cloud Computing Student at Sir Syed University**
 
-        <div class="section">
-            <h3>🛠️ Languages and Tools</h3>
-            <div class="icons">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" alt="Figma">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="Shopify">
-                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS">
-            </div>
-        </div>
+📍 Karachi Division, Sindh, Pakistan
 
-        <div class="section">
-            <h3>💼 Experience</h3>
-            <p><strong>Web Developer</strong><br>
-               Ingenious Guru<br>
-               January 2023 - Present (1 year 11 months)<br>
-               Karachi Division, Sindh, Pakistan</p>
-        </div>
+---
 
-        <div class="section">
-            <h3>🎓 Education</h3>
-            <p><strong>Bachelor of Science - BS, Cloud Computing</strong><br>
-               Sir Syed University of Engineering and Technology<br>
-               October 2024 - August 2028</p>
-        </div>
+### 👨‍💻 About Me
+I'm a dedicated website developer with **1.5 years of experience** creating custom, dynamic web solutions. I have a strong technical foundation in front-end and back-end development, with skills across:
 
-        <div class="section contact-info">
-            <h3>📫 Contact Me</h3>
-            <p><strong>Phone:</strong> 03194869475 (Work)</p>
-            <p><strong>Email:</strong> <a href="mailto:muhammadibrar13717@gmail.com">muhammadibrar13717@gmail.com</a></p>
-            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/muhammadibrar-bhatti-3483b1337" target="_blank">linkedin.com/in/muhammadibrar-bhatti-3483b1337</a></p>
-        </div>
+- **Languages & Frameworks:** Custom HTML, React.js, PHP, JavaScript, Python
+- **Platforms & Tools:** WordPress, Shopify, Figma
 
-        <div class="section stats">
-            <h3>🔗 GitHub Stats</h3>
-            <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" alt="Muhammad Ibrar Bhatti's GitHub Stats">
-        </div>
+Currently, I'm a **Cloud Computing student** at Sir Syed University of Engineering and Technology, working to enhance my understanding of modern cloud solutions. I enjoy crafting responsive and impactful digital experiences that are tailored to meet client needs.
 
-        <p>Feel free to explore my repositories and connect with me if you have any projects or opportunities you'd like to discuss!</p>
-    </div>
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 💼 Experience
+
+**Web Developer**  
+*Ingenious Guru*  
+*January 2023 - Present (1 year 11 months)*  
+Karachi Division, Sindh, Pakistan
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science - BS, Cloud Computing**  
+*Sir Syed University of Engineering and Technology*  
+October 2024 - August 2028
+
+---
+
+### 📫 Contact Me
+- **Phone:** 03194869475 (Work)
+- **Email:** muhammadibrar13717@gmail.com
+- **LinkedIn:** [linkedin.com/in/muhammadibrar-bhatti-3483b1337](https://www.linkedin.com/in/muhammadibrar-bhatti-3483b1337)
+
+---
+
+### 🔗 GitHub Stats
+![Muhammad Ibrar Bhatti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+
+---
+
+Feel free to explore my repositories and connect with me if you have any projects or opportunities you'd like to discuss!
